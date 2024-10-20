@@ -4,7 +4,7 @@ The Drum Kit project is a fun web-based application that allows users to play dr
 
 ## Demo
 
-Check out the live demo [here.](#)
+Check out the live demo [here.](https://shafayat666.github.io/drum-kit/)
 
 ![preview.png](./preview.png)
 ## Technologies Used
